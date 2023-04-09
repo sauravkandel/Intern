@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.wrapper{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.time{
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+  width: 50%;
+  padding: 10px;
+}
